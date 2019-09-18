@@ -1,0 +1,9 @@
+{
+  "name": "ne.js",
+  "version": "0.0.1",
+  "main": "ne.js",
+  "license": "MIT",
+  "description": "A basic neural evolution library made for easy integration",
+  "repository": "https://github.com/ajkachnic/ne.js.git",
+  "author": "Andrew Kachnic"
+}
